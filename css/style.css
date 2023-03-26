@@ -205,7 +205,7 @@ nav{
 .input-itms input[type=text]{
   margin-left: -1%;
     border: 1px solid #00cccc;
-    padding: 5px;
+    padding: 5.2px;
     border-radius: 0px 30px 30px 0px;
 }
 .input-itms .get-link{
@@ -226,7 +226,7 @@ nav{
   
   position: absolute;
     font-size: 13px;
-    left: 33%;
+    left: 27%;
     bottom: -70%;
 }
 /* footer */
