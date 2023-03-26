@@ -1,0 +1,41 @@
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 320px) and (max-width: 720px) {
+    .login_btn {
+        border: 1px solid black!important;
+        background: transparent!important;
+        margin-left: 10%;
+    }
+    .box input{
+        padding-left: 5%;
+        font-size: 0.5rem;
+  }
+  .box .l-icon {
+   
+    font-size: 1rem;
+  }
+  .box .s-icon {
+    font-size: 0.8rem;
+}
+.btn_go {
+    padding: 4px;
+}
+.db_menu ul li {
+    display: inline;
+    margin-right: 20px;
+}
+.input-itms input[type=text] {
+    font-size: 0.8rem;
+}
+.input-itms select {
+    font-size: 0.82rem;
+}
+.d-btn {
+    background-color: transparent;
+    border-radius: 30px;
+    border-color: #00cccc;
+    margin-left: 0px;
+    padding: 4px 8px;
+    font-size: 1rem;
+}
+  
+}
