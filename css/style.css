@@ -16,6 +16,7 @@ nav{
     border: 1px solid black!important;
     background: transparent!important;
     margin-right: 10px;
+    border-radius: 15px;
 }
 .login_btn:hover{
     border: 1px solid #00cccc!important;

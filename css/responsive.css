@@ -6,8 +6,8 @@
         margin-left: 10%;
     }
     .box input{
-        padding-left: 5%;
-        font-size: 0.5rem;
+        padding-left: 7%;
+        font-size: 0.63rem;
   }
   .box .l-icon {
    
@@ -17,7 +17,7 @@
     font-size: 0.8rem;
 }
 .btn_go {
-    padding: 4px;
+    padding: 3px;
 }
 .db_menu ul li {
     display: inline;
@@ -37,5 +37,12 @@
     padding: 4px 8px;
     font-size: 1rem;
 }
+.text-mob-center{
+    text-align: center;
+}
+.img-box {
+    padding: 7px 7px;
+}
+.
   
 }
