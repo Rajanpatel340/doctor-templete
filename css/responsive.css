@@ -25,9 +25,16 @@
 }
 .input-itms input[type=text] {
     font-size: 0.8rem;
+    max-width: 35%;
 }
 .input-itms select {
     font-size: 0.82rem;
+}
+.or {
+    position: absolute;
+    font-size: 13px;
+    left: 45%;
+    bottom: -70%;
 }
 .d-btn {
     background-color: transparent;
